@@ -1,0 +1,12 @@
+﻿  Book.cpp
+  BorrowRecord.cpp
+  main.cpp
+  MyList.cpp
+  Node.cpp
+  Student.cpp
+  test.cpp
+  ui.cpp
+  正在生成代码...
+D:\NNU\Work\图书管理系统\图书管理系统\MyList.h(60): warning C4715: “MyList<Book>::search”: 不是所有的控件路径都返回值
+D:\NNU\Work\图书管理系统\图书管理系统\MyList.h(60): warning C4715: “MyList<BorrowRecord>::search”: 不是所有的控件路径都返回值
+  图书管理系统.vcxproj -> D:\NNU\Work\图书管理系统\x64\Debug\图书管理系统.exe
